@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/t.me/postonova/bin/python3
 import csv
 import json
 
